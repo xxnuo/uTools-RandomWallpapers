@@ -1,5 +1,10 @@
 # 随机壁纸
 
+## 区别
+原作者：[github.com/fofolee/uTools-RandomWallpapers](https://github.com/fofolee/uTools-RandomWallpapers)
+
+原作者已更换图源，fork一份原图源代码自用
+
 ## 简介
 
 - 壁纸来自`wallhaven`
